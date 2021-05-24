@@ -6,3 +6,4 @@ This repo includes 4 sessions, wraps basic knowledge about Machine Learning
 1. [Session 1](https://github.com/vothuckhanhhuyen/dslab/tree/master/SESSION%201) : Linear Regression - TFIDF Vectorizer
 2. [Session 2](https://github.com/vothuckhanhhuyen/dslab/tree/master/SESSION%202) : KNN - KMeans - SVM
 3. [Session 3](https://github.com/vothuckhanhhuyen/dslab/tree/master/SESSION%203) : Neural Network - Tensorflow
+4. [Session 4](https://github.com/vothuckhanhhuyen/dslab/tree/master/SESSION%204) : RNN - Word2Vec 
